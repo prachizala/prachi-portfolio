@@ -55,7 +55,7 @@ Engineered with performance, accessibility, and clean typography in mind, it del
 | **Hero & Introduction** | Professional headline, quick facts (hackathon rank, projects built, location), and action buttons. |
 | **About & Journey** | Bio detailing academic background in Computer Applications and journey into Python and Agentic AI. |
 | **Skills & Accreditations** | Categorized chips detailing Strong skills, Intermediate tools, Ongoing learnings, and Certifications (Oracle, Google, Infosys). |
-| **Selected Projects** | Interactive cards featuring **AI Smart Attendance System** (Dual-Factor Biometrics & Geofencing), **MathSprint**, **Qoneqt ContentOS**, and **Mental Health Tracker**. |
+| **Selected Projects** | Interactive cards featuring **AI Smart Attendance System** (Dual-Factor Biometrics & Geofencing), **MathSprint** (Silver Oak Mini Hackathon), **Qoneqt ContentOS**, and **Mental Health Tracker**. |
 | **Contact & Footer** | Direct email CTA (`prachizala2003@gmail.com`), social channels, and copyright info. |
 
 ---
