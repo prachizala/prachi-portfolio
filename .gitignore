@@ -3,3 +3,12 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+
+# Tooling and agent configs
+.claude/
+.gemini/
+.cursor/
+.agent/
+CLAUDE.md
+AGENTS.md
+GEMINI.md
