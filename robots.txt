@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prachizala.github.io/prachi-portfolio/sitemap.xml
+Sitemap: https://prachizala.vercel.app/sitemap.xml
