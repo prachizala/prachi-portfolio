@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prachizala.github.io/prachi-portfolio/sitemap.xml

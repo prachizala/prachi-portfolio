@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Prachi Zala",
+  "alternateName": "Zala Prachi",
+  "jobTitle": "Full Stack Developer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Udaan",
+    "url": "https://udaan.com"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ahmedabad",
+    "addressRegion": "Gujarat",
+    "addressCountry": "IN"
+  },
+  "url": "https://prachizala.github.io/prachi-portfolio/",
+  "image": "https://github.com/prachizala.png",
+  "sameAs": [
+    "https://github.com/prachizala",
+    "https://www.linkedin.com/in/zala-prachi-74a08b334/"
+  ],
+  "knowsAbout": [
+    "Python",
+    "FastAPI",
+    "Pydantic",
+    "REST APIs",
+    "PostgreSQL",
+    "SQLite",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Java",
+    "OpenCV",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "Pytest",
+    "Git",
+    "GitHub Actions",
+    "Postman",
+    "Distributed Systems"
+  ]
+}
