@@ -122,10 +122,14 @@ python -m unittest tests/test_portfolio.py
 
 ---
 
-## 👤 Author & Contact
+---
 
-**Prachi Zala**  
-- **Location:** Ahmedabad, Gujarat, India  
-- **GitHub:** [@prachizala](https://github.com/prachizala)  
-- **LinkedIn:** [Prachi Zala](https://www.linkedin.com/in/prachi-zala-74a08b334/)  
-- **Email:** `[ADD CONTACT EMAIL]`
+## 👩‍💻 Author & Maintainer
+
+**Prachi Zala (Zala Prachi)**  
+*Full Stack Developer at Udaan, Ahmedabad, Gujarat, India*
+
+- 🌐 **Portfolio:** [prachizala.github.io/prachi-portfolio](https://prachizala.github.io/prachi-portfolio/)
+- 💼 **LinkedIn:** [linkedin.com/in/zala-prachi-74a08b334](https://www.linkedin.com/in/zala-prachi-74a08b334/)
+- 🐙 **GitHub:** [@prachizala](https://github.com/prachizala)
+- 📧 **Email:** [prachizala2003@gmail.com](mailto:prachizala2003@gmail.com)
