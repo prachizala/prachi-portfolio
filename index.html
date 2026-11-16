@@ -84,6 +84,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-display: swap;
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-display: swap;
+}
 :root{
   --paper:#F7F8FC; --surface:#FFFFFF; --ink:#151936; --muted:#5A5F7D; --line:#DDE0EE;
   --accent:#3B47D9; --accent-ink:#FFFFFF; --soft:#E8EAFB;
@@ -209,7 +217,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
       </div>
     </div>
     <div class="portrait">
-      <img src="image/profile.jpeg" alt="Portrait of Prachi Zala, Full Stack Developer at Udaanworks" onerror="this.remove()">
+      <img src="image/profile.jpeg" alt="Portrait of Prachi Zala, Full Stack Developer at Udaanworks" loading="lazy" onerror="this.remove()">
       <span aria-hidden="true">PZ</span>
     </div>
   </div>

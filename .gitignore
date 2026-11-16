@@ -3,6 +3,8 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+__pycache__/
+*.py[cod]
 
 # Tooling and agent configs
 .claude/
